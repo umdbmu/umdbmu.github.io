@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/simpledoc"]
+	path = themes/simpledoc
+	url = https://github.com/aerohub/hugo-simpledoc-theme
