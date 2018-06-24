@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://umdbmu.github.io/posts/2017-goods/</loc>
+    <lastmod>2018-06-25T06:25:19+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://umdbmu.github.io/</loc>
+    <lastmod>2018-06-25T06:25:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://umdbmu.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://umdbmu.github.io/posts/</loc>
+    <lastmod>2018-06-25T06:25:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
